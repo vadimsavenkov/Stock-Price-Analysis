@@ -1,4 +1,4 @@
-# Stock-Price-Analysis
+# Oil Majors Stock Price Analysis
 
 ## Use Pandas Web Datareader to download the stocks prices for large Canadian and US oil producers from Yahoo Finance.
 
