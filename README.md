@@ -24,7 +24,7 @@
 
 ## Look at THE best gain day and worst drop day using idxmax and idxmin.
 
-## Calculate standard deviation to identify the riskiest stock in 2015 and 2020.
+## Calculate standard deviation to identify the riskiest stock in 2015 and 2021.
 
 ## Create distribution plots to show returns on oil stocks.
 
@@ -34,7 +34,7 @@
 
 ## Create candlstick plots comparing pandemic recession period of 2020 for Suncor and ExxonMobil.
 
-## Use Bollinger statistical chart characterizing the stock prices and volatility over time for Cenovus as an example at year 2020.
+## Use Bollinger statistical chart characterizing the stock prices and volatility over time for Cenovus as an example at year 2021.
 
 ## Create stock price correlations to compare returns for US and Canadian oil companies.
 
